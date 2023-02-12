@@ -20,7 +20,7 @@ class Corona {
 	}
 
 	public String toString() {
-		return "cercle gran " + gran + " cercle petit " + petit;
+		return "Cercle gran " + gran + " cercle petit " + petit;
 	}
 
 	/**
